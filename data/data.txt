@@ -1,0 +1,270 @@
+<object> 
+#Aeron
+id:    54  type: 0  file: data2\aeron\aeron.dat
+id:  2000  type: 1  file: data2\aeron\aeron_ww.dat
+
+#Bandit
+id:  60  type: 0  file: data2\bandit\bandit.dat
+id: 216  type: 1  file: data2\bandit\bandit_knife.dat
+id: 35  type: 1  file: data2\bandit\bandit_knife2.dat
+
+#Bat
+id:  38  type: 0  file: data2\bat\bat.dat
+id: 224  type: 3  file: data2\bat\bat_ball.dat
+id: 225  type: 3  file: data2\bat\bat_chase.dat
+id: 256  type: 3  file: data2\bat\bat_col.dat
+id: 260  type: 3  file: data2\bat\bat_sonic.dat
+
+#Cameleon
+id:  56  type: 0  file: data2\cameleon\cameleon.dat
+id: 264  type: 3  file: data2\cameleon\cameleon_ball.dat
+
+#Clide
+id: 3   type: 0 file: data2\clide\clide.dat
+id: 293 type: 3 file: data2\clide\clide_ball.dat
+
+#Davis
+id:  11  type: 0  file: data2\davis\davis.dat
+id: 207  type: 3  file: data2\davis\davis_ball.dat
+id: 249  type: 3  file: data2\davis\davis_ball2.dat
+id: 250  type: 3  file: data2\davis\Davisex_col.dat
+
+#Deep
+id:   1  type: 0  file: data2\deep\deep.dat
+id: 203  type: 3  file: data2\deep\deep_ball01.dat
+id: 230  type: 3  file: data2\deep\deep_slash.dat
+id: 231  type: 3  file: data2\deep\deep_SWORD.dat
+
+#Dennis
+id:   9  type: 0  file: data2\dennis\dennis.dat
+id: 205  type: 3  file: data2\dennis\dennis_ball.dat
+id: 215  type: 3  file: data2\dennis\dennis_chase.dat
+id: 253  type: 3  file: data2\dennis\dennis_ball2.dat
+
+#Duke
+id:   28  type: 0  file: data2\duke\duke.dat
+id: 2113  type: 3  file: data2\duke\duke_ball.dat
+id: 2114  type: 3  file: data2\duke\duke_wave.dat
+id: 2115  type: 3  file: data2\duke\duke_chase.dat
+id: 2116  type: 3  file: data2\duke\duke_phoenix.dat
+id: 2117  type: 3  file: data2\duke\duke_lost_soul.dat
+
+#Firen
+id:   7  type: 0  file: data2\firen\firen.dat
+id: 210  type: 3  file: data2\firen\firen_ball.dat
+id: 211  type: 3  file: data2\firen\firen_flame.dat
+id: 242  type: 3  file: data2\firen\firen_ball02.dat
+id: 243  type: 1  file: data2\firen\firen_ball03.dat
+id: 244  type: 3  file: data2\firen\firen_flame02.dat
+id: 248  type: 1  file: data2\firen\firen_ball04.dat 
+
+#Firzen
+id:  51  type: 0  file: data2\firzen\firzen.dat
+id: 223  type: 3  file: data2\firzen\firzen_ball.dat
+id: 221  type: 3  file: data2\firzen\firzen_chasef.dat
+id: 222  type: 3  file: data2\firzen\firzen_chasei.dat
+id: 404  type: 3  file: data2\firzen\firzen_ball2.dat
+id: 405  type: 3  file: data2\firzen\firzen_disk.dat
+id: 255  type: 3  file: data2\firzen\firzen_thunder.dat
+
+#Freeze
+id:   8  type: 0  file: data2\freeze\freeze.dat
+id: 209  type: 3  file: data2\freeze\freeze_ball.dat
+id: 212  type: 3  file: data2\freeze\freeze_typhon.dat
+id: 213  type: 1  file: data2\freeze\freeze_Sword.dat 
+id: 251  type: 3  file: data2\freeze\freeze_Sin.dat 
+id: 254  type: 3  file: data2\freeze\freeze_ball2.dat 
+id: 259  type: 3  file: data2\freeze\freeze_wind.dat
+
+#GokuSSJ
+id:  55  type: 0  file: data2\GokuSSJ\GokuSSJ.dat
+id: 685  type: 3  file: data2\GokuSSJ\goku_spirit.dat
+id: 686  type: 1  file: data2\GokuSSJ\ssjgoku_down2.dat
+id: 687  type: 1  file: data2\GokuSSJ\goku_down.dat
+id: 688  type: 3  file: data2\GokuSSJ\goku_kame.dat
+id: 690  type: 3  file: data2\GokuSSJ\ssjgoku_nkame.dat
+id: 694  type: 3  file: data2\GokuSSJ\ssjgoku_ball.dat
+id: 693  type: 3  file: data2\GokuSSJ\ssjgoku_kame.dat
+
+#Granny
+id:   53  type: 0  file: data2\granny\granny.dat
+id:  102  type: 3  file: data2\granny\granny_trap.dat
+id:  100  type: 3  file: data2\granny\granny_bat.dat
+
+#Henry
+id:   4  type: 0  file: data2\Henry\henry.dat
+id: 201  type: 1  file: data2\Henry\henry_arrow1.dat
+id: 208  type: 3  file: data2\Henry\henry_arrow2.dat
+id: 204  type: 3  file: data2\Henry\henry_wind.dat
+id: 235  type: 3  file: data2\Henry\henry_arrow01.dat
+id: 236  type: 3  file: data2\Henry\henry_arrow02.dat
+id: 247  type: 3  file: data2\Henry\henry_arrow03.dat
+id: 237  type: 3  file: data2\Henry\henry_attack01.dat
+
+#Hunter
+id:  61  type: 0  file: data2\hunter\hunter.dat 
+id: 257  type: 3  file: data2\hunter\hunter_arrow.dat
+id: 258  type: 3  file: data2\hunter\hunter_arrow2.dat
+
+#Jack
+id:    63  type: 0  file: data2\jack\jack.dat
+id:  8228  type: 3  file: data2\jack\jack_ball.dat
+
+#Jan
+id:   29  type: 0  file: data2\jan\jan.dat
+id:  219  type: 3  file: data2\jan\jan_chaseh.dat
+id:  220  type: 3  file: data2\jan\jan_chase.dat
+id:  301  type: 3  file: data2\jan\jan_chase2.dat
+id:  302  type: 3  file: data2\jan\jan_chase3.dat
+id:  263  type: 3  file: data2\jan\jan_chase4.dat
+id:  321  type: 3  file: data2\jan\jan_ball2.dat
+id:  691  type: 3  file: data2\jan\jav_ball.dat
+id:  692  type: 5  file: data2\jan\jav_angel.dat
+
+#John
+id:   2  type: 0  file: data2\john\john.dat
+id: 232  type: 3  file: data2\john\john_ball01.dat
+id: 233  type: 3  file: data2\john\john_ball02.dat
+id: 234  type: 3  file: data2\john\john_bulle.dat
+id: 245  type: 3  file: data2\john\john_powerfoce.dat
+id: 246  type: 3  file: data2\john\john_ball03.dat
+id: 200  type: 3  file: data2\john\john_ball.dat
+id: 214  type: 3  file: data2\john\john_biscuit.dat
+
+#Julian
+id:  52  type: 0  file: data2\julian\julian.dat
+id: 228  type: 3  file: data2\julian\julian_ball.dat
+id: 229  type: 3  file: data2\julian\julian_ball2.dat
+
+#Justin
+id:  49  type: 0  file: data2\justin\justin.dat
+id: 226  type: 3  file: data2\justin\justin_ball.dat
+
+#Kaktena
+id:  18  type: 0  file: data2\kaktena\kaktena.dat
+id:  817 type: 3  file: data2\kaktena\kaktena_b.dat
+id:  818 type: 1  file: data2\kaktena\kaktena_w.dat
+id: 261  type: 3  file: data2\kaktena\kaktena_trap.dat
+
+#Knight
+id:  37  type: 0  file: data2\knight\knight.dat
+
+#Leo
+id:  13 type: 0 file: data2\leo\leo.dat
+id: 130 type: 3 file: data2\leo\leo_ball.dat
+id: 124  type: 1  file: data2\leo\leo_weapon.dat
+
+#Liso
+id:  27  type: 0  file: data2\liso\liso.dat
+id: 396  type: 3  file: data2\liso\liso_ball.dat
+id: 397  type: 3  file: data2\liso\liso_axe.dat
+id: 271  type: 3  file: data2\liso\liso_gaxe.dat
+
+#Louis
+id:   6  type: 0  file: data2\louis\louis.dat
+id: 241  type: 3  file: data2\louis\louis_col.dat
+id: 217  type: 2  file: data2\louis\louis_armor1.dat
+id: 218  type: 2  file: data2\louis\louis_armor2.dat
+id: 115  type: 3  file: data2\louis\louis_ball.dat
+id: 269  type: 3  file: data2\louis\louis_ball2.dat
+
+#LouisEX
+id:  50  type: 0  file: data2\LouisEX\louisEX.dat
+id: 322  type: 3  file: data2\LouisEX\LouisEX_ball.dat
+id: 270  type: 3  file: data2\LouisEX\louisEX_ball2.dat
+
+#Mark
+id:  62  type: 0  file: data2\mark\mark.dat
+id: 227  type: 2  file: data2\mark\rock.dat
+
+#Monk
+id:  65  type: 0  file: data2\monk\monk.dat
+id: 238  type: 3  file: data2\monk\monk_ball.dat
+id: 268  type: 3  file: data2\monk\monk_rock.dat
+
+#Rudolf
+id:   5  type: 0  file: data2\rudolf\rudolf.dat
+id: 202  type: 1  file: data2\rudolf\rudolf_weapon.dat
+id: 239  type: 3  file: data2\rudolf\rudolf_weapon02.dat
+id: 240  type: 3  file: data2\rudolf\rudolf_Soil.dat
+
+#Silva
+id:  14  type: 0  file: data2\silva\silva.dat
+id: 266  type: 3  file: data2\silva\silva_exp.dat
+id: 267  type: 4  file: data2\silva\silva_weap.dat
+id: 753  type: 3  file: data2\silva\silva_ball.dat
+
+#Sorcerer
+id: 64  type: 0  file: data2\sorcerer\sorcerer.dat
+
+#Volt
+id:  12  type: 0  file: data2\volt\volt.dat
+id: 294  type: 3  file: data2\volt\electricity2.dat
+id: 295  type: 3  file: data2\volt\electricity.dat
+id: 296  type: 3  file: data2\volt\electrode.dat
+id: 297  type: 3  file: data2\volt\bolt.dat
+id: 298  type: 3  file: data2\volt\lightning.dat
+id: 299  type: 3  file: data2\volt\storm.dat
+
+#Walter
+id:   25  type: 0  file: data2\walter\Walter.dat
+id: 4300  type: 3  file: data2\walter\walter_ball.dat
+id: 4301  type: 3  file: data2\walter\walter_chase.dat
+id: 8123  type: 3  file: data2\walter\walter_wave.dat
+
+#Winnie
+id: 15 type: 0 file: data2\winnie\winnie.dat
+id: 420 type: 3 file: data2\winnie\winnie_ball.dat
+
+#Woody
+id:  10  type: 0  file: data2\woody\woody.dat
+id: 206  type: 3  file: data2\woody\woody_ball.dat
+id: 252  type: 3  file: data2\woody\woody_hand.dat
+
+#Additional
+id: 59  type: 0  file: data2\bandit\decoy.dat		#bandtit_decoy
+id: 30  type: 0  file: data\spectator.dat		#spectator
+id: 32  type: 0  file: data2\dummy\dummy.dat		#training_dummy
+id: 33  type: 0  file: data2\jan\jan_b.dat		#jan_clone
+id: 34  type: 0  file: data\STAGE\heal_dummy.dat	#healing_dummy
+
+#Weapons
+id: 101  type: 1  file: data\spectator.dat
+id: 120  type: 1  file: data\spectator.dat
+id: 121  type: 4  file: data\spectator.dat
+id: 122  type: 6  file: data\spectator.dat
+id: 123  type: 6  file: data\spectator.dat
+id: 127  type: 6  file: data\spectator.dat
+id: 128  type: 6  file: data\spectator.dat
+
+#etc
+id: 996  type: 3  file: data2\system_Core02.dat
+id: 997  type: 3  file: data2\system_Core01.dat
+id: 998  type: 5  file: data\etc.dat
+id: 999  type: 5  file: data\broken_weapon.dat
+<object_end>
+
+
+<background>
+id: 2    file: bg\sys\lor\bg.dat	#LeeOnRoad	
+id: 18   file: bg\sys\M&M\bg.dat	#AquaAedes
+id: 17	 file: bg\sys\M&M_N\bg.dat	#AquaAedes Night
+id: 15   file: bg\sys\az\bg.dat		#AzerothForest	
+id: 5    file: bg\sys\gw\bg.dat		#GreatWall	
+id: 6    file: bg\sys\qi\bg.dat		#QueenIsland	
+id: 16   file: bg\sys\jw\jw.dat		#JuliansTower	
+id: 8    file: bg\sys\bc\bg.dat		#BrokenCliff	
+id: 19   file: bg\sys\bn\bg.dat		#BloodyNight	
+id: 9    file: bg\sys\temple\temple.dat	#Temple		
+id: 56    file: bg\sys\NM\bg.dat	#Nachtmystium	
+id: 21   file: bg\sys\dgh\bg.dat	#Forest		
+id: 50   file: bg\sys\rns\bg.dat	#Ruins	
+id: 27    file: bg\sys\thv\bg.dat	#Village	
+id: 6687    file: bg\sys\inferno\bg.dat	#Inferno	
+id: 10   file: bg\sys\lr\bg.dat		#LeeOnRoad_BATTLEMODE
+id: 11    file: bg\sys\oldroad\bg.dat	#SallOldRoad	 
+
+<background_end>
+
+#0,16,17,19-24,26,27
+# >=272
