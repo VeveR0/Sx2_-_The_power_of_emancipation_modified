@@ -53,7 +53,6 @@ Characters can perform abilities using specific key combinations:
    -  [Kaktena](https://lf-empire.de/forum/showthread.php?tid=11096&highlight=kaktena);
    -  [Leo](https://www.lf-empire.de/lfe-fileplanet/characters/827-leo);
    -  [Liso](https://www.lf-empire.de/lfe-fileplanet/characters/363-liso);
-   -  [Rex](https://www.lf-empire.de/lfe-fileplanet/characters/790-rex), shifted abilities to Silva;
    -  [Silva](https://www.lf-empire.de/lfe-fileplanet/characters/394-silva);
    -  [SSJ Goku](https://www.lf-empire.de/lfe-fileplanet/characters/812-goku-ssj-goku);
    -  [Volt](https://www.lf-empire.de/lfe-fileplanet/characters/412-volt);
