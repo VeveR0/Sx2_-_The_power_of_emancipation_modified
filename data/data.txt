@@ -2,6 +2,7 @@
 #Aeron
 id:    54  type: 0  file: data2\aeron\aeron.dat
 id:  2000  type: 1  file: data2\aeron\aeron_ww.dat
+id:  2001  type: 1  file: data2\aeron\aeron_blastpush.dat
 
 #Bandit
 id:  60  type: 0  file: data2\bandit\bandit.dat
