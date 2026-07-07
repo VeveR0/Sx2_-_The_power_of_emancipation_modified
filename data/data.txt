@@ -247,23 +247,22 @@ id: 999  type: 5  file: data\broken_weapon.dat
 
 
 <background>
+id: 11    file: bg\sys\oldroad\bg.dat	#Smaller OldRoad
 id: 2    file: bg\sys\lor\bg.dat	#LeeOnRoad	
-id: 18   file: bg\sys\M&M\bg.dat	#AquaAedes
 id: 17	 file: bg\sys\M&M_N\bg.dat	#AquaAedes Night
-id: 15   file: bg\sys\az\bg.dat		#AzerothForest	
-id: 5    file: bg\sys\gw\bg.dat		#GreatWall	
-id: 6    file: bg\sys\qi\bg.dat		#QueenIsland	
-id: 16   file: bg\sys\jw\jw.dat		#JuliansTower	
+id: 15   file: bg\sys\az\bg.dat		#Azeroth Forest	
+id: 5    file: bg\sys\gw\bg.dat		#Great Wall	
+id: 6    file: bg\sys\qi\bg.dat		#Queen Island	
+id: 16   file: bg\sys\jw\jw.dat		#Julian's Tower	
 id: 8    file: bg\sys\bc\bg.dat		#BrokenCliff	
-id: 19   file: bg\sys\bn\bg.dat		#BloodyNight	
-id: 9    file: bg\sys\temple\temple.dat	#Temple		
-id: 56    file: bg\sys\NM\bg.dat	#Nachtmystium	
 id: 21   file: bg\sys\dgh\bg.dat	#Forest		
 id: 50   file: bg\sys\rns\bg.dat	#Ruins	
-id: 27    file: bg\sys\thv\bg.dat	#Village	
-id: 6687    file: bg\sys\inferno\bg.dat	#Inferno	
-id: 10   file: bg\sys\lr\bg.dat		#LeeOnRoad_BATTLEMODE
-id: 11    file: bg\sys\oldroad\bg.dat	#SallOldRoad	 
+id: 27    file: bg\sys\thv\bg.dat	#Village
+id: 19   file: bg\sys\bn\bg.dat		#BloodyNight
+id: 56    file: bg\sys\NM\bg.dat	#Nachtmystium
+id: 18   file: bg\sys\M&M\bg.dat	#AquaAedes
+id: 10   file: bg\sys\lr\bg.dat		#LeeOnRoad BATTLEMODE
+	 
 
 <background_end>
 
